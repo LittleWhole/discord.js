@@ -10,7 +10,7 @@
     "docs:test": "docgen --source src --custom docs/index.yml",
     "lint": "eslint src *.js",
     "lint:fix": "eslint --fix src",
-    "build:browser": "webpack",
+    "build:browser": "echo test",
     "prepublishOnly": "npm run test && NODE_ENV=production npm run build:browser"
   },
   "repository": {
