@@ -6,5 +6,5 @@
 ## Installation
 You can install `iconic-djs` by using
 ```sh
-npm install -g iconic-djs --save-dev
+npm install -g iconic-djs
 ```
