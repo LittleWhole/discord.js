@@ -1,7 +1,7 @@
 const MessageAttachment = require('./MessageAttachment');
 const Util = require('../util/Util');
 const { RangeError } = require('../errors');
-const MessageEmbed = require
+const MessageEmbed = require ('./MessageEmbed');
 
 /**
  * Represents an embed in a message (image/video preview, rich embed, etc.)
